@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on learning Kotlin, Jetpack Compose, Architecture, KMP and CI/CD
 - 🌱 I’m currently learning to make responsive and efficient apps
