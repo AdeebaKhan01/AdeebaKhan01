@@ -1,7 +1,14 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on learning Kotlin, Jetpack Compose, Architecture, KMP and CI/CD
+- 🔭 I’m currently working on enhancing my skills in the following domains:
+  1. **Languages** - Kotlin
+  3. **Mobile Application Development** - Jetpack Compose, SwiftUI
+  4. **Architecture and Design Patterns** - Clean, MVVM, MVI, MVC etc
+  5. **KMP** - Kotlin Multiplatform
+  6. **CI/CD** - Continuous Integration and Deployment
+    
 - 🌱 I’m currently learning to make responsive and efficient apps
+- You can also view the projects I have worked on (TODO: Add link to the repo having the projects desc and previews)
 
 <!--
 **AdeebaKhan01/AdeebaKhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
